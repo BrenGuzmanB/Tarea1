@@ -18,3 +18,4 @@ Tarea 1.1 Minería de datos, Analítica y visualización de datos
 *Confirmen los cambios locales y vean la diferencia con la versión previa
 *Sincronicen ambos repositorios
 
+Nueva línea porque confirmé los cambios sin ver las diferencias y ahora no tiene sentido usar diff
